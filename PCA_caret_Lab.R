@@ -1,0 +1,7 @@
+install.packages('caret')
+install.packages('e1071')
+library('caret')
+require(caret)
+library('e1071')
+trans = preProcess(iris[,1:4], method=c("BoxCox", "center", "scale", "pca"))
+PC = predict(trans, iris[,1:4])

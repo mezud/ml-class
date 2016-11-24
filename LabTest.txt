@@ -1,0 +1,13 @@
+Congressional Voting Records Data Set 
+
+1. Read in
+2. Explore classes through plots (may be scatter, histograms, density)
+3. Are the classes seperable ? Which attribute is most explanatory.
+4. Train a classifier using Naive Bayes 
+5. Test the classifier and interpret results.
+
+No discussion. Internet free.
+
+Start Time 7:10
+End Time 7:45
+
